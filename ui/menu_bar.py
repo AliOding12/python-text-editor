@@ -75,3 +75,4 @@ class MenuBar(tk.Menu):
     # Help menu actions
     def show_about(self):
         messagebox.showinfo("About", "TkEdit - A Modern Tkinter Text Editor\nBuilt with Python.")
+# Add menu bar UI
