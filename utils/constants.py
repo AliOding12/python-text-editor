@@ -7,3 +7,4 @@ DEFAULT_FONT_FAMILY = "Arial"
 DEFAULT_FONT_SIZE = 12
 
 DEFAULT_THEME = "Light"
+# Add constants for app configuration
