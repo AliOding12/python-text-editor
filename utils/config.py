@@ -48,3 +48,4 @@ class Config:
 
     def set(self, key: str, value) -> None:
         self.data[key] = value
+# Add settings load/save functionality
