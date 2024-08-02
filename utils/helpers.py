@@ -22,3 +22,4 @@ def write_file(path, content):
     """Write content to a file."""
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
+# Add helper functions for utilities
