@@ -77,3 +77,4 @@ class MenuBar(tk.Menu):
         messagebox.showinfo("About", "TkEdit - A Modern Tkinter Text Editor\nBuilt with Python.")
 # Add menu bar UI
 # Update menu bar with file menu options
+# Add edit menu for find/replace
