@@ -25,3 +25,4 @@ class StatusBar(ttk.Frame):
     def set_status(self, text):
         self.status_label.config(text=text)
 # Add status bar component
+# Add word count to status bar
