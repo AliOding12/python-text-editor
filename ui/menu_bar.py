@@ -78,3 +78,4 @@ class MenuBar(tk.Menu):
 # Add menu bar UI
 # Update menu bar with file menu options
 # Add edit menu for find/replace
+# Add view menu for zoom and theme
