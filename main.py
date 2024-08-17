@@ -32,3 +32,4 @@ if __name__ == "__main__":
     main()
 # Add main application entry point
 # Integrate auto-save into main app
+# Refactor main app for modularity
