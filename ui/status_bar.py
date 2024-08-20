@@ -26,3 +26,4 @@ class StatusBar(ttk.Frame):
         self.status_label.config(text=text)
 # Add status bar component
 # Add word count to status bar
+# Add line and column indicators
