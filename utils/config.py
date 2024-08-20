@@ -50,3 +50,4 @@ class Config:
         self.data[key] = value
 # Add settings load/save functionality
 # Fix bug in settings loading
+# Add support for user-defined shortcuts
