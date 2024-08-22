@@ -24,3 +24,4 @@ def write_file(path, content):
         f.write(content)
 # Add helper functions for utilities
 # Add text formatting helpers
+# Add error logging helpers
