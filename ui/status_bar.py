@@ -27,3 +27,4 @@ class StatusBar(ttk.Frame):
 # Add status bar component
 # Add word count to status bar
 # Add line and column indicators
+# Fix status bar UI alignment
