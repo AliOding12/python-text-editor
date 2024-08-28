@@ -8,3 +8,4 @@ DEFAULT_FONT_SIZE = 12
 
 DEFAULT_THEME = "Light"
 # Add constants for app configuration
+# Add more app constants
