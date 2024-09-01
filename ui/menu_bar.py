@@ -80,3 +80,4 @@ class MenuBar(tk.Menu):
 # Add edit menu for find/replace
 # Add view menu for zoom and theme
 # Add format menu for font options
+# Fix menu bar keyboard navigation
